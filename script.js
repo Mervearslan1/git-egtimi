@@ -1,0 +1,1 @@
+alert("İyiki dogdun Mizafeer ");
